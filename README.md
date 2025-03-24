@@ -1,4 +1,4 @@
 # nft-shop
 A Full Functional NFT Shop 
 <br>
-Live - https://nft-shop-seven.vercel.app/ !!
+Live - <a href="https://nft-shop-seven.vercel.app/" target=_blank> https://nft-shop-seven.vercel.app/ </a> !!
